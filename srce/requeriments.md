@@ -1,5 +1,5 @@
 # Requisitos necessários:
-
+<!---
 ## Linguagem:
 
 É necessário ter a versão Python.3 instalada
