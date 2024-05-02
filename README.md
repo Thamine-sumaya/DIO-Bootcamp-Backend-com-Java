@@ -3,7 +3,7 @@
 ![em andamento](https://github.com/Thamine-sumaya/Santander-2024-Backend-com-Java/assets/160533319/34cb8687-aca7-4343-8c38-027cc26c3a88)
 ![visão geral](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/assets/160533319/bb600a0d-a48a-4bed-83f5-a0408918bb81)
 
-Este repositório contém os arquivos relacionados ao =Bootcamp Santander 2024 Backend com Java proporcionado pela DIO_me em colaboração com a Snatander Academy. Este repositório serve como uma exposição de conhecimentos adiquiridos durante o Bootcamp, reunindo todos os projetos práticos executados. 
+Este repositório contém os arquivos relacionados ao Bootcamp Santander 2024 Backend com Java proporcionado pela DIO_me em colaboração com a Snatander Academy. Este repositório serve como uma exposição de conhecimentos adiquiridos durante o Bootcamp, reunindo todos os projetos práticos executados. 
 
 ![conteúdo](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/assets/160533319/ebe0a7a5-5d30-44d2-8d0d-57bd4f4b6a04)
 
