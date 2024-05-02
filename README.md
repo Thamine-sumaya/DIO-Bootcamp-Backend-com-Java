@@ -18,7 +18,7 @@ Trabalha os fundamentos do sistema de versionamento de código git, o funcioname
 
 ![divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/assets/160533319/372bf224-15ad-4915-92df-270ab8171ad6)
 ### Java
-Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Java, tem como projeto desafios teóricos ao final de cada aula, com uma série de perguntas de multipla escolha com limite de tempo, e desafios práticos durante o aprendizado, onde são apresentados problemas fictícios, instruções sobre como a resolução deve ser executada e a partir deles esperado uma solução criada pelo aluno, os códigos depois de inseridos são testados pela plataforma, e se dados como corretos a tarefa é concluída.
+Trabalha a sintaxe e os fundamentos de lógica de programação aplicados em Java, tem como projeto desafios teóricos ao final de cada aula, com uma série de perguntas de multipla escolha com limite de tempo, e desafios práticos durante o aprendizado, onde são apresentados problemas fictícios, instruções sobre como a resolução deve ser executada.
 
 
 ![divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/assets/160533319/41dbb065-67d8-4a7b-a3de-ddd57aeb7615)
