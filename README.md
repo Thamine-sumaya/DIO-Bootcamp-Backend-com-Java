@@ -86,7 +86,7 @@ Explicação do projeto--->
 Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 1. Clone este repositório para o seu ambiente local usando `git clone`.
-2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/DIO-Bootcamp-Python-AI-Backend-Developer/blob/main/srce/requeriments.md).
+2. Instale as dependências necessárias listadas no arquivo [`requirements.md`](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/blob/main/srce/requeriments.md).
 3. Execute os códigos para reproduzir os resultados ou fazer modificações conforme necessário.
 
    
@@ -94,5 +94,5 @@ Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 Esse projeto não está aberto para contribuições, é apenas uma demonstração dos conhecimentos adquiridos durante o Bootcamp.
 ![divisor](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/assets/160533319/c7ca3ff6-b98f-4e61-9712-87047313300e)
-[![certificações](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/assets/160533319/8ec5d999-b996-4c6c-ae42-077e2428a318)]()
+[![certificações](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/assets/160533319/8ec5d999-b996-4c6c-ae42-077e2428a318)](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/blob/main/Certificações.md)
 
