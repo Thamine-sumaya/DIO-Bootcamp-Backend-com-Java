@@ -44,7 +44,7 @@ O objetivo principal deste projeto é desenvolver habilidades em Python, por mei
 
 ![projetos](https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/assets/160533319/c4e8ac04-9b2c-4def-8f8c-77a51e4574ff)
 
-<a href="">
+<!---<a href="">
    <img src="https://github.com/Thamine-sumaya/DIO-Bootcamp-Santander-2024-Backend-com-Java/assets/160533319/d2cf4dfd-2c48-4b77-86c9-cfd2eb3e598e" alt="Projeto 1" width="175" >
 </a>
 
